@@ -1,0 +1,43 @@
+body{
+  background-image: url();
+}
+#aboutme{
+float: right;
+}
+
+.card{
+height:60%;
+}
+
+.bd-placeholder-img {
+  font-size: 1.125rem;
+  text-anchor: middle;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+}
+.about{
+  background-image: url(../images/con3.jpg);
+}
+.button{
+  background-color:beige;
+}
+.bg-2 { 
+  background-color: #474e5d; /* Dark Blue */
+  color: #ffffff;
+}
+.bg-3 { 
+  background-color: #fff; /* White */
+  color: #555555;
+}
+.album {
+  background-image:url(../images/background.jpg);
+}
+
+
+@media (min-width: 768px) {
+  .bd-placeholder-img-lg {
+    font-size: 3.5rem;
+  }
+}
