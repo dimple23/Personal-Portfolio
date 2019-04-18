@@ -34,7 +34,17 @@ height:60%;
 .album {
   background-image:url(../images/background.jpg);
 }
+.edu{
+  background-image: url(../images/edu.jpg);
+}
 
+.logo
+{
+  display: grid;
+  grid-template-columns: auto auto ;
+  grid-gap: 30px;
+  margin: 20px;
+}
 
 @media (min-width: 768px) {
   .bd-placeholder-img-lg {
