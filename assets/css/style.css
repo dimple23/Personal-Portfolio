@@ -45,6 +45,9 @@ height:60%;
   grid-gap: 30px;
   margin: 20px;
 }
+.footerlogo{
+  background-image: url(../images/con3.jpg)
+}
 
 @media (min-width: 768px) {
   .bd-placeholder-img-lg {
